@@ -14,6 +14,13 @@ Keep up with Electric Capital PR which contains active repos under Telos network
 
 https://github.com/electric-capital/crypto-ecosystems/pull/239
 
+## Analytics
+
+**Goku Stats** Provide the Goku stats team Elastic search access or go ahead with Telosindexer API. Follow up on 10/24
+
+**BitQuery** Once we have 1.5 maybe we can start working on getting our EVM state history or full chain history to Bitquery to automate the process of handing over data to third parties. 
+
+
 ## Wallets
 
 **Trust wallet** latest status 10/20 -- Waiting to hear back from Eric @ Trust wallet on when Custom Networks integration and adding Telos RPC specs and logo to automate the process for end users. 
