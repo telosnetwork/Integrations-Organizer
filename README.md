@@ -12,6 +12,8 @@ Integrate Telos Yields like LP pair farming opoprtunties, network staking, and o
 
 Keep up with Electric Capital PR which contains active repos under Telos network and sub ecosystems. It aggregates all of developer activity under Telos.
 
+https://github.com/electric-capital/crypto-ecosystems/pull/239
+
 ## Wallets
 
 **Trust wallet** latest status 10/20 -- Waiting to hear back from Eric @ Trust wallet on when Custom Networks integration and adding Telos RPC specs and logo to automate the process for end users. 
